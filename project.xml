@@ -891,7 +891,7 @@
      <CompileType>NoProtection</CompileType>
      <ScriptVersion>1.0.0</ScriptVersion>
      <AvailableLanguages>en,ru</AvailableLanguages>
-     <EngineVersion>28.9.3</EngineVersion>
+     <EngineVersion>29.5.0</EngineVersion>
      <SettingsWorker>EnableWidevine=true
 EnableSafeBrowsing=true
 EnableVariations=true
@@ -925,7 +925,7 @@ WebglVendor=&quot;&quot;
 Detector=false
 </SettingsWorker>
      <ChromeCommandLine>--disk-cache-size=5000000
---disable-features=CookieDeprecationFacilitatedTesting,OptimizationGuideModelDownloading,CookieDeprecationFacilitatedTesting
+--disable-features=OptimizationGuideModelDownloading,AutoDeElevate
 --lang=en
 --disable-auto-reload</ChromeCommandLine>
      <ModulesMetaJson>{
@@ -942,15 +942,15 @@ Detector=false
 }
 </ModulesMetaJson>
      <InterfaceState>{&quot;variables&quot;:{&quot;sortings&quot;:[{&quot;name&quot;:&quot;frequency&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;dateModified&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;dateCreated&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;alphabetically&quot;,&quot;active&quot;:true}],&quot;filters&quot;:[{&quot;name&quot;:&quot;undefined&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;boolean&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;object&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;string&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;number&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;array&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;date&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;null&quot;,&quot;active&quot;:true}],&quot;options&quot;:[{&quot;name&quot;:&quot;groups&quot;,&quot;active&quot;:false}],&quot;groups&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Main&quot;,&quot;color&quot;:&quot;brown&quot;,&quot;expanded&quot;:true,&quot;items&quot;:[{&quot;key&quot;:&quot;ARCH&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;BOUNDS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;CYCLE_INDEX&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;DEFAULT_PROFILE&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;ERROR_ID&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;EXTENSIONS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FINGERPRINT&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FINGERPRINT_CANVAS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FINGERPRINT_KEY&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FINGERPRINT_OPTIONS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FINGERPRINT_TAGS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;FOREACH_DATA&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;HAS_FINGERPRINT&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;HAS_PROXY&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;ID&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LAST_ERROR&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;LIST_WITH_ITEMS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PATH&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PID&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PROFILE&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PROFILE_OPTIONS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PROJECT_DIRECTORY&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PROXY&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;PROXY_OPTIONS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;REQUEST&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;REQUESTS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;REQUESTS_DIRECTORY&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;REQUEST_PATH&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;RESPONSE&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;RESULT&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;SOURCE&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;VERSION&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;VERSIONS&quot;,&quot;fixed&quot;:false},{&quot;key&quot;:&quot;WAS_ERROR&quot;,&quot;fixed&quot;:false}]}],&quot;nodes&quot;:{&quot;[\&quot;FINGERPRINT_OPTIONS\&quot;]&quot;:false,&quot;[\&quot;PROFILE_OPTIONS\&quot;]&quot;:false,&quot;[\&quot;PROXY_OPTIONS\&quot;]&quot;:true,&quot;[\&quot;RESULT\&quot;]&quot;:false,&quot;[\&quot;BOUNDS\&quot;]&quot;:false,&quot;[\&quot;EXTENSIONS\&quot;]&quot;:false,&quot;[\&quot;RESULT\&quot;,\&quot;bounds\&quot;]&quot;:false,&quot;[\&quot;RESULT\&quot;,\&quot;extensions\&quot;]&quot;:false,&quot;[\&quot;RESULT\&quot;,\&quot;response\&quot;]&quot;:false,&quot;[\&quot;REQUESTS\&quot;]&quot;:false,&quot;[\&quot;REQUEST\&quot;]&quot;:false,&quot;[\&quot;REQUEST\&quot;,\&quot;params\&quot;]&quot;:false,&quot;[\&quot;PID\&quot;]&quot;:false}},&quot;resources&quot;:{&quot;sortings&quot;:[{&quot;name&quot;:&quot;frequency&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;dateModified&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;dateCreated&quot;,&quot;active&quot;:false},{&quot;name&quot;:&quot;alphabetically&quot;,&quot;active&quot;:true}],&quot;filters&quot;:[{&quot;name&quot;:&quot;undefined&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;boolean&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;object&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;string&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;number&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;array&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;date&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;null&quot;,&quot;active&quot;:true}],&quot;options&quot;:[{&quot;name&quot;:&quot;groups&quot;,&quot;active&quot;:false}],&quot;groups&quot;:[{&quot;id&quot;:0,&quot;name&quot;:&quot;Main&quot;,&quot;color&quot;:&quot;brown&quot;,&quot;expanded&quot;:true,&quot;items&quot;:[]}],&quot;nodes&quot;:{}},&quot;callstack&quot;:{&quot;filters&quot;:[{&quot;name&quot;:&quot;functions&quot;,&quot;active&quot;:true},{&quot;name&quot;:&quot;actions&quot;,&quot;active&quot;:true}],&quot;sortings&quot;:[],&quot;options&quot;:[]}}</InterfaceState>
-     <OutputTitle1 en="" ru=""/>
-     <OutputTitle2 en="" ru=""/>
-     <OutputTitle3 en="" ru=""/>
-     <OutputTitle4 en="" ru=""/>
-     <OutputTitle5 en="" ru=""/>
-     <OutputTitle6 en="" ru=""/>
-     <OutputTitle7 en="" ru=""/>
-     <OutputTitle8 en="" ru=""/>
-     <OutputTitle9 en="" ru=""/>
+     <OutputTitle1 en="" ru="" />
+     <OutputTitle2 en="" ru="" />
+     <OutputTitle3 en="" ru="" />
+     <OutputTitle4 en="" ru="" />
+     <OutputTitle5 en="" ru="" />
+     <OutputTitle6 en="" ru="" />
+     <OutputTitle7 en="" ru="" />
+     <OutputTitle8 en="" ru="" />
+     <OutputTitle9 en="" ru="" />
      <OutputVisible1>0</OutputVisible1>
      <OutputVisible2>0</OutputVisible2>
      <OutputVisible3>0</OutputVisible3>
