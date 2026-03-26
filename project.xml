@@ -891,7 +891,7 @@
      <CompileType>NoProtection</CompileType>
      <ScriptVersion>1.0.0</ScriptVersion>
      <AvailableLanguages>en,ru</AvailableLanguages>
-     <EngineVersion>29.5.0</EngineVersion>
+     <EngineVersion>29.9.0</EngineVersion>
      <SettingsWorker>EnableWidevine=true
 EnableSafeBrowsing=true
 EnableVariations=true
