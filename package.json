@@ -7,7 +7,7 @@
     "url": "git+https://github.com/bablosoft/browser-with-fingerprints.git"
   },
   "author": "bablosoft",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bablosoft/browser-with-fingerprints/issues",
@@ -66,12 +66,12 @@
   ],
   "dependencies": {
     "async-lock": "1.4.1",
-    "axios": "1.13.1",
-    "chokidar": "^4.0.3",
-    "chrome-remote-interface": "0.33.3",
+    "axios": "1.14.0",
+    "chokidar": "^5.0.0",
+    "chrome-remote-interface": "0.34.0",
     "compare-versions": "6.1.1",
     "debug": "4.4.3",
-    "dedent": "1.7.0",
+    "dedent": "1.7.2",
     "extract-zip": "2.0.1",
     "fast-glob": "3.3.3",
     "once": "1.4.0",
@@ -79,10 +79,10 @@
   },
   "devDependencies": {
     "@cheshire-caat/prettier-config": "^1.0.0",
-    "dotenv": "^17.2.3",
-    "mocha": "^11.7.4",
+    "dotenv": "^17.4.1",
+    "mocha": "^11.7.5",
     "napi-macros": "^2.2.2",
-    "prettier": "3.6.2"
+    "prettier": "3.8.1"
   },
   "prettier": "@cheshire-caat/prettier-config"
 }
