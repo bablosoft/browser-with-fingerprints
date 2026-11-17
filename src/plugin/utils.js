@@ -6,7 +6,8 @@ const DEFAULT_ARGS = [
   '--disable-auto-reload',
   '--bas-disable-tab-hook',
   '--disk-cache-size=5000000',
-  '--disable-features=NetworkServiceInProcess2,OptimizationGuideModelDownloading,AutoDeElevate',
+  '--do-not-de-elevate',
+  '--disable-features=NetworkServiceInProcess2,OptimizationGuideModelDownloading,AutoDeElevate,AutofillAiWalletPrivatePasses',
 ];
 
 const IGNORED_ARGS = ['--kiosk', '--headless', '--user-data-dir', '--start-maximized', '--start-fullscreen'];
